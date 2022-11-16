@@ -1,0 +1,1 @@
+En küçüğü bulmak için işlem sayısı azaltılmıştır
